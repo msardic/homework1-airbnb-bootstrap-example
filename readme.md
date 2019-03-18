@@ -1,4 +1,4 @@
-#Airbnb bootstrap homework
+##Airbnb bootstrap homework
 
 bootstrap kullanarak airbnb sayfasını oluşturmaya çalıştım.
 
